@@ -74,7 +74,8 @@ const UploadProfilePage = () => {
 };
 
 export default UploadProfilePage;
----
+
+```
 #Img upload with fullimg preview
 
 ```jsx
