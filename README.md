@@ -74,8 +74,9 @@ const UploadProfilePage = () => {
 };
 
 export default UploadProfilePage;
-
+---
 #Img upload with fullimg preview
+
 ```jsx
 import { FaPencilAlt, FaTimes } from 'react-icons/fa'
 import { useEffect, useRef, useState } from 'react'
