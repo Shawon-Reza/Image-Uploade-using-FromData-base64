@@ -76,7 +76,7 @@ const UploadProfilePage = () => {
 export default UploadProfilePage;
 
 ```
-#Img upload with fullimg preview
+#Img upload with full img preview while clicking on img. and img upload while clicking on pencil icon
 
 ```jsx
 import { FaPencilAlt, FaTimes } from 'react-icons/fa'
